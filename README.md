@@ -21,7 +21,7 @@ Or download a PDF version [here](https://github.com/dgblack/robotPhantom/raw/mas
 
 ### CAD Models 
 (Plus machine shop drawings, DXF files for waterjetting, STL files for 3D printing)\
-View files [here](https://github.com/dgblack/robotPhantom/CAD)
+View files [here](https://github.com/dgblack/robotPhantom/tree/master/CAD)
 
 ### Software
-Code is found [here](https://github.com/dgblack/robotPhantom/src)
+Code is found [here](https://github.com/dgblack/robotPhantom/tree/master/src)
