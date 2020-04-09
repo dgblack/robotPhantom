@@ -1,0 +1,1 @@
+The CAD files are named by part number, which can be referenced from the Bill Of Materials. Certain DXF files for waterjet cutting, drawings for machine shops, and STL files for 3D printing are included in the Fabrication folder. While these are easily reproduced by exporting from SolidWorks, they are the files we used for fabrication.
