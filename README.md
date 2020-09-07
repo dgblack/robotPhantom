@@ -9,6 +9,9 @@
 ### Overview:
 Full mechanical, electrical, and software design of an anatomically realistic, anthropomorphic PET phantom with human-like breathing motion. The phantom is robust and can achieve fast breathing rates (over 25 breaths per minute) even at high tidal volumes (up to 1000mL). The lungs have not yet been fabricated due to the COVID-19 pandemic.
 
+### Videos and Photos:
+Some videos and photos from testing [here](https://drive.google.com/drive/folders/1uiWelC6bOkdkfJQonwLRlHdK8gElCDiQ?usp=sharing)
+
 ### Paper:
 To read about the phantom, read the draft of the paper about it [here](https://github.com/dgblack/robotPhantom/blob/master/RobotPhantomPaper.pdf)
 
