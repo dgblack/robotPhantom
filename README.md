@@ -13,7 +13,7 @@ Full mechanical, electrical, and software design of an anatomically realistic, a
 Some videos and photos from testing [here](https://drive.google.com/drive/folders/1uiWelC6bOkdkfJQonwLRlHdK8gElCDiQ?usp=sharing)
 
 ### Paper:
-To read about the phantom, read the draft of the paper about it [here](https://github.com/dgblack/robotPhantom/blob/master/RobotPhantomPaper.pdf)
+To read about the phantom, read the draft of the paper about it [here](https://github.com/dgblack/robotPhantom/blob/master/PhantomPaperDraft.pdf)
 
 ### User Manual:
 For full details, documentation, user manual, click [here](https://github.com/dgblack/robotPhantom/blob/master/phantomUserManual.pdf)
