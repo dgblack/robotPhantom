@@ -13,7 +13,7 @@ Full mechanical, electrical, and software design of an anatomically realistic, a
 Some videos and photos from testing [here](https://ubcca-my.sharepoint.com/:f:/g/personal/dgblack_student_ubc_ca/Ejtq5QNHxeNPp8weYnc7cZwBMOwxvVZQ7KxTPI8Fzo8WOQ)
 
 ### Paper:
-To read about the phantom, read the draft of the paper about it [here](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1) on techRxiv
+To read about the phantom, read the draft of the paper about it [here](https://www.techrxiv.org/articles/preprint/Design_of_an_Anthropomorphic_Respiratory_Phantom_for_PET_Imaging/13440122/1) on techRxiv\
 See ePoster [here](https://w3.aapm.org/meetings/2020AM/programInfo/programAbs.php?sid=8796&aid=51718)
 
 ### User Manual:
